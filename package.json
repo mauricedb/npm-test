@@ -1,0 +1,22 @@
+{
+  "name": "generator-pv8-field",
+  "version": "1.0.0",
+  "description": "Test",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "mauricedb/npm-test",
+  "author": {
+    "name": "Maurice",
+    "email": "",
+    "url": "https://github.com/mauricedb"
+  },
+  "scripts": {
+    "test": "mocha",
+    "test-watch": "mocha --watch"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
